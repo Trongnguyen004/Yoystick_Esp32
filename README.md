@@ -1,5 +1,5 @@
 # Yoystick_Esp32
-### 
+### 3D PCB
 <p align="center">
   <img src="https://github.com/Trongnguyen004/Yoystick_Esp32/assets/137270832/705a848b-7723-492b-9d96-55c484137a07"  width="500">
 </p>
@@ -10,12 +10,11 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://github.com/Trongnguyen004/Yoystick_Esp32/assets/137270832/501d87df-ccd2-45fa-85be-3063181288e9"  width="300">
 </p>
 
-
+### Tham khảo 
 <p align="center">
   <img src="https://github.com/Trongnguyen004/Yoystick_Esp32/assets/137270832/33f82fae-8a4b-4dd5-9a90-5242ded59f46"  width="500">
 </p>
