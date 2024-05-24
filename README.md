@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Trongnguyen004/Yoystick_Esp32/assets/137270832/501d87df-ccd2-45fa-85be-3063181288e9" alt="Pic1" width="500">
+  <img src="https://github.com/Trongnguyen004/Yoystick_Esp32/assets/137270832/501d87df-ccd2-45fa-85be-3063181288e9" alt="Pic1" width="300">
 </p>
 
 <p align="center">
